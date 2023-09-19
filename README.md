@@ -6,7 +6,7 @@ Example for how to use [Cursor.so](https://www.cursor.so) to encode and expand y
 
 ### What does it mean to ‘program’?
 
-Essentially, instructing how to apply and orchestrate computing power to achieve a desired result. To date we’ve programmed the explicit Computation and Execution of algorithms, using custom languages. *What’s possible when you can program nuanced Reasoning as well, by providing instructions in the language you already speak?*
+Essentially, it's instructing how to apply and orchestrate computing power to achieve a desired result. To date we’ve programmed the explicit Computation and Execution of algorithms, using custom languages. *What’s possible when you can program nuanced Reasoning as well, by providing instructions in the language you already speak?*
 
 ---
 
