@@ -1,12 +1,26 @@
-# Programming Reasoning
+# Programming Reasoning (Cursor)
 
-Programming LLM reasoning to encode and level up knowledge work today - how-to, using [Cursor.so](https://www.cursor.so).
+Programming LLM Reasoning to encode and level up knowledge work.
 
-[Walk-through video &rarr;](https://twitter.com/ClaytonFarr/status/1704243084253663732)
+Example for how to use [Cursor.so](https://www.cursor.so) to encode and expand your brainpower and thinking.
+
+&nbsp;
+
+> **What does it mean to ‘program’?**
+>
+> Essentially, it’s instructing how to apply and orchestrate computing power to achieve a desired result.
+>
+> To date we’ve programmed the explicit Computation and Execution of algorithms, using custom languages.
+>
+> *What’s possible when you can program nuanced Reasoning as well, by providing instructions in the language you already speak?*
+
+&nbsp;
+
+[How-To Video &rarr;](https://twitter.com/ClaytonFarr/status/1704243084253663732)
 
 [![Walkthrough video](/ref/video.jpg "Slide preview")](https://twitter.com/ClaytonFarr/status/1704243084253663732)
 
-[Slides from video intro &rarr;](https://www.figma.com/proto/4NpqOAkTHj0y9ih1pFgzKd/Programming-Reasoning?page-id=0%3A1&type=design&node-id=12-16485&viewport=393%2C-6930%2C1&t=T3t7sTHZyT8zgZCu-1&scaling=min-zoom&starting-point-node-id=12%3A16485&mode=design)
+[Slides From Video &rarr;](https://www.figma.com/proto/4NpqOAkTHj0y9ih1pFgzKd/Programming-Reasoning?page-id=0%3A1&type=design&node-id=12-16485&viewport=393%2C-6930%2C1&t=T3t7sTHZyT8zgZCu-1&scaling=min-zoom&starting-point-node-id=12%3A16485&mode=design)
 
 [![Slide](/ref/programming-reasoning.png "Slide preview")](https://www.figma.com/proto/4NpqOAkTHj0y9ih1pFgzKd/Programming-Reasoning?page-id=0%3A1&type=design&node-id=12-16485&viewport=393%2C-6930%2C1&t=T3t7sTHZyT8zgZCu-1&scaling=min-zoom&starting-point-node-id=12%3A16485&mode=design)
 
